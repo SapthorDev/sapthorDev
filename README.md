@@ -1,38 +1,45 @@
 # Sapthor Dev
 
-Sapthor Dev is an independent product and web-development studio focused on building practical web products, automation tools, and custom websites.
+**Web products, automation tools, and custom websites.**
+
+I build practical digital products from idea to working release — including business websites, SaaS products, browser extensions, custom workflows, and AI-assisted tools.
+
+🌐 **Website:** https://sapthordev.github.io/sapthorDev/  
+✉️ **Email:** sapthor.dev@gmail.com
 
 ## What I build
 
-- **Custom websites** — strategy, UX, responsive design, development, and launch-ready implementation.
-- **Website redesigns and rebuilds** — clearer structure, stronger usability, better mobile experience, and cleaner conversion flows.
-- **Custom business workflows** — forms, quotation flows, client portals, dashboards, ecommerce logic, and purpose-built web tools.
-- **Product experiments** — SaaS, browser extensions, social products, and automation systems.
+- Custom business websites and landing pages
+- Website redesigns, rebuilds, and UX improvements
+- SaaS products and client portals
+- Automation and internal business tools
+- Browser extensions
+- AI-assisted product experiments
 
 ## Selected projects
 
 ### Zuvoqi
-A curiosity-driven social product built around Mysteries, guesses, sealed truths, and delayed reveals.
+A curiosity-driven social product where posts are Mysteries, interaction starts with a guess, and the truth is revealed later.
 
 ### Local Lead Intelligence (LLI)
-A Chrome extension for discovering, verifying, enriching, and prioritizing local-business opportunities.
+A Chrome extension for discovering, verifying, enriching, and prioritizing local-business opportunities from Google Maps.
 
 ### PartCortex
-A bilingual B2B sourcing system with catalogues, sourcing requests, private quotations, approvals, and order workflows.
+A bilingual B2B sourcing system with catalogues, sourcing requests, private quotations, approvals, customer accounts, and order workflows.
 
 ### RevisionCap
-A focused workflow for freelancers to collect structured client feedback, manage revision limits, and handle extra revision rounds.
+A freelancer-focused workflow for structured client feedback, revision limits, and extra revision rounds.
 
-## This repository
+## Current focus
 
-This repository contains the lightweight Sapthor Dev web presence in `index.html`.
+Building and shipping useful products under **Sapthor Dev**, while also taking on selected website and custom web-development work.
 
 ## Contact
 
-- Email: sapthor.dev@gmail.com
-- Threads: https://www.threads.com/@sapthordev
-- Bluesky: https://bsky.app/profile/sapthor.bsky.social
+- **Email:** sapthor.dev@gmail.com
+- **Threads:** https://www.threads.com/@sapthordev
+- **Bluesky:** https://bsky.app/profile/sapthor.bsky.social
 
 ---
 
-**Sapthor Dev** — web products, automation tools, and custom websites.
+If you have a business website that needs a redesign, rebuild, or a completely new implementation, feel free to reach out.
