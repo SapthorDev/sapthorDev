@@ -27,7 +27,7 @@ A Chrome extension for discovering, verifying, enriching, and prioritizing local
 ### PartCortex
 A bilingual B2B sourcing system with catalogues, sourcing requests, private quotations, approvals, customer accounts, and order workflows.
 
-### RevisionCap
+### Rivuna
 A freelancer-focused workflow for structured client feedback, revision limits, and extra revision rounds.
 
 ## Current focus
