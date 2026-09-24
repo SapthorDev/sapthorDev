@@ -4,7 +4,7 @@
 
 I build practical digital products from idea to working release — including business websites, SaaS products, browser extensions, custom workflows, and AI-assisted tools.
 
-🌐 **Website:** https://sapthordev.github.io/sapthorDev/  
+🌐 **Website:** https://sapthordev.github.io
 ✉️ **Email:** sapthor.dev@gmail.com
 
 ## What I build
